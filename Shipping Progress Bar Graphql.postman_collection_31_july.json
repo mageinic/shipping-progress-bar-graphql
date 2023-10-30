@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "51f98ee7-7408-47d4-a82d-421d6d5af05f",
+		"name": "Shipping Progress Bar Graphql",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Shipping_Graphql",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "",
+						"value": "",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "graphql",
+					"graphql": {
+						"query": "{\n  getshippingprogressbarinfo(quoteId: \"72\") {\n    achieved_message\n    in_progress_message\n    initial_message\n  }\n}\n",
+						"variables": ""
+					}
+				},
+				"url": {
+					"raw": "https://local.magento246.com/graphql",
+					"protocol": "https",
+					"host": [
+						"local",
+						"magento246",
+						"com"
+					],
+					"path": [
+						"graphql"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
