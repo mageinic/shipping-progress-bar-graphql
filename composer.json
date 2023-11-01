@@ -1,6 +1,6 @@
 {
     "name": "mageinic/shipping-progress-bar-graphql",
-    "description": "Shipping Progress Bar GraphQl Extension by MageINIC Team",
+    "description": "Shipping Progress Bar GraphQL is a part of MageINIC Shipping Progress Bar extension that adds GraphQL features. This extension extends Shipping Progress Bar definitions.",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
