@@ -12,7 +12,7 @@
         "magento/framework": "103.0.*",
         "magento/module-graph-ql": "100.4.*",
         "magento/module-store": "101.1.*",
-        "mageinic\/shippingprogressbar": ">=1.0.0"
+        "mageinic/shipping-progress-bar": ">=1.0.0"
     },
     "authors": [
         {

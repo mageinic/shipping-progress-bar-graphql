@@ -22,7 +22,7 @@ Magento 2 Shipping Progress Bar GraphQL requires installing [MageINIC Shipping P
 
 **Or Install via composer [Recommend]**
 ```
-composer require mageinic/shippingprogressbar
+composer require mageinic/shipping-progress-bar
 ```
 
 ## 2. How to use
